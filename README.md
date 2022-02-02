@@ -1,3 +1,6 @@
+Forked from https://github.com/IAmBaut
+This description, and code, is from IAmBaut. This fork is just for personal use.
+
 # Startpage
 
 A small script to generate a startpage written in Python.
